@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Varshney</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://github.com/harshhere905/harshhere905/blob/main/5eKX.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshhere905&label=Profile%20views&color=0e75b6&style=flat" alt="harshhere905" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshhere905" alt="harshhere905" /></a> </p>
