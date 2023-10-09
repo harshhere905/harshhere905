@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshu905" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu905?logo=twitter&style=for-the-badge" alt="priyanshu905" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 - 🌱 I’m currently learning **DSA,React.js,Node.js**
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me *hv96829@gmail.com*
+- 📫 How to reach me *-hv96829@gmail.com*
 
 - ⚡ Fun fact **I think I am funny!**
 
