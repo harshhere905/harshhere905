@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me *-hv96829@gmail.com*
+- 📫 How to reach me *hv96829@gmail.com*
 
 - ⚡ Fun fact **I think I am funny!**
 
