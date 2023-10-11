@@ -34,7 +34,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshhere905&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshhere905&theme=highcontrast&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhere905&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![Nitkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshhere905&theme=chartreuse-dark)](https://github.com/harshhere905/github-readme-activity-graph)
+[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshhere905&theme=chartreuse-dark)](https://github.com/harshhere905/github-readme-activity-graph)
 <!-- Holopin Stickers -->
 [![An image of @nitkarshchourasia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshhere905)](https://holopin.io/@harshhere905)
 
