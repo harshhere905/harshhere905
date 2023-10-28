@@ -24,7 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-varshney-bba715270/)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/itspriyanshu905)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16444659/priyanshu-varshney)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/16444659/priyanshu-varshney])
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hv96829)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?&logo=hashnode&logoColor=white)](https://hashnode.com/@harshhere905)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshhere905/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
