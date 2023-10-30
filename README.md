@@ -4,7 +4,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/biswajyotiray/count.svg?"  />
+</div>
 
 
 <p align="left"> <a href="https://twitter.com/priyanshu905" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu905?logo=twitter&style=for-the-badge" alt="priyanshu905" /></a> </p>
