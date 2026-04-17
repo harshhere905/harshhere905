@@ -1,54 +1,105 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-
-<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Varshney</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
-
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/biswajyotiray/count.svg?"  />
+
+# <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&lines=👋+Hi,+I'm+Priyanshu+Varshney" alt="Typing SVG" />
+
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Building+Amazing+Projects" alt="Typing SVG" />
+
 </div>
 
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/priyanshu905" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu905?logo=X&style=for-the-badge" alt="priyanshu905" /></a> </p>
+<a href="mailto:itspriyanshu905@gmail.com?subject=Opportunity%20or%20Collaboration&body=Hi%20Priyanshu%2C%0A">
+  <img src="https://img.shields.io/badge/Contact%20Me-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
 
-- 🌱 I’m currently learning **DSA,React.js,Node.js**
+---
 
-- 💬 Ask me about **C++**
+## 🚀 About Me
 
-- 📫 How to reach me *itspriyanshu905@gmail.com*
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
 
-- ⚡ Fun fact **I think I am funny!**
+- 🎓 **Passionate Full Stack Developer** from India
+- 🌱 Currently learning **DSA, React.js & Node.js**
+- 💻 Skilled in **C++** and competitive programming
+- 🎯 Building projects that solve real problems
+- 🤝 Open to collaboration and learning
+- ⚡ Fun fact: *I genuinely think I'm funny!* 😄
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-varshney-bba715270/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/itspriyanshu905)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22273057/priyanshu-varshney)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hv96829)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?&logo=hashnode&logoColor=white)](https://hashnode.com/@harshhere905)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshhere905/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
+---
 
-<!-- Add your GitHub stats and top languages -->
-<h3 align="left">📊 GitHub Stats:</h3>
+## 🛠️ Tech Stack
+
+### **Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshhere905&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshhere905&theme=highcontrast&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhere905&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhere905&theme=highcontrast&hide_border=false&layout=compact)
+
 [![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshhere905&theme=chartreuse-dark)](https://github.com/harshhere905/github-readme-activity-graph)
-<!-- Holopin Stickers -->
-[![An image of @nitkarshchourasia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshhere905)](https://holopin.io/@harshhere905)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+<div align="center">
+
+| **Platform** | **Link** |
+|:---:|:---:|
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/priyanshu-varshney-bba715270/) |
+| **Twitter** | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/priyanshu905) |
+| **Reddit** | [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat-square)](https://www.reddit.com/user/itspriyanshu905) |
+| **Stack Overflow** | [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/22273057/priyanshu-varshney) |
+| **Medium** | [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=flat-square)](https://medium.com/@hv96829) |
+| **Hashnode** | [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=flat-square)](https://hashnode.com/@harshhere905) |
+| **GeeksforGeeks** | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white&style=flat-square)](https://auth.geeksforgeeks.org/user/harshhere905/) |
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/harshhere905)](https://holopin.io/@harshhere905)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *Building the future, one line of code at a time.*
+
+<br/>
+<footer>Made with ❤️ by Priyanshu Varshney</footer>
 
 
-<h3 align="left">📊 Languages and Tools</h3>
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+</div>
