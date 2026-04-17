@@ -55,13 +55,17 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshhere905&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=harshhere905&theme=highcontrast&hide_border=true&count_private=false" height="170"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshhere905&theme=highcontrast&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhere905&theme=highcontrast&hide_border=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhere905&theme=highcontrast&hide_border=true" height="170"/>
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhere905&theme=highcontrast&hide_border=true&layout=compact" height="150"/>
 
-[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshhere905&theme=chartreuse-dark)](https://github.com/harshhere905/github-readme-activity-graph)
+<br/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshhere905&theme=github-dark" width="100%"/>
 
 </div>
 
