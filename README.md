@@ -71,26 +71,28 @@
 
 ## 📁 Featured Projects
 
-### 🤖 **Swift.AI** – AI-Powered Content Creation Suite
-- **Tech Stack:** React.js, Node.js, Express.js, Gemini API, TailwindCSS, PostgreSQL, Vercel
-- Built an integrated AI suite for blog generation, image creation, and productivity tools
-- Implemented authentication with Clerk and designed fully responsive UI
-- Integrated payments and deployed on Vercel with user dashboards
-- **[View Project](https://github.com/harshhere905)**
+### 🤖 GitScout – GitHub Repository Discovery & Developer Insights Tool
+
+- **Tech Stack:** React.js, Node.js, Express.js, GitHub API, TailwindCSS, Vercel
+- Built an intelligent repository search system using GitHub API  
+- Added filters for stars, language, and trending projects  
+- Designed a clean and responsive UI for better developer experience  
+- Integrated real-time data fetching for repositories and user profiles  
+- **[View Project](https://github.com/harshhere905/Git_Scout)**
 
 ### 📝 **NoteForge** – Collaborative Notes Platform
 - **Tech Stack:** Next.js 15, Shadcn UI, Google Auth, Tiptap, Vercel
 - Developed collaborative notes app with Google and email authentication
 - Integrated Tiptap rich text editor with formatting and dark mode support
 - Optimized server actions and deployed globally on Vercel
-- **[View Project](https://github.com/harshhere905)**
+- **[View Project](https://github.com/harshhere905/NoteForge)**
 
 ### 💰 **CryptoArena** – Real-Time Cryptocurrency Tracker
 - **Tech Stack:** React.js, TailwindCSS, JavaScript, CoinGecko API
 - Designed dashboard for real-time crypto tracking and market trends
 - Built mobile-friendly interface for cross-device accessibility
 - Integrated CoinGecko API for live market data
-- **[View Project](https://github.com/harshhere905)**
+- **[View Project](https://github.com/harshhere905/CryptoArena)**
 
 ---
 
